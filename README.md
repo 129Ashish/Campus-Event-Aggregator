@@ -3,12 +3,10 @@
 Campus Connect is a **campus event aggregator web application** built using **HTML, CSS, and JavaScript**.  
 It provides students with a centralized platform to discover, explore, and participate in campus events — including cultural fests, technical workshops, seminars, and more.
 
----
+![Home Page](images/image.png) 
 
 ## 🌐 Live Preview
-> 🔗 **Preview Link:** [Add your website link here]()
-
-*(You can insert a deployed link or local server URL once hosted.)*
+> 🔗 **Preview Link:** https://campus-connect-abvgiet.vercel.app
 
 ---
 
@@ -107,11 +105,10 @@ If something doesn’t display correctly:
 ---
 
 ## 👨‍💻 Contributors:
-| Akshayverma001 | | 129Ashish | | Vanshikarajan | 
+| akshayverma001 | | 129Ashish | | Vanshikarajan | 
 
 - **Team -X **  
   *Developed as part of Hackathon 2K25 project.*
-
 
 
 ⭐ **Campus Connect** — Making campus life more connected, one event at a time!
